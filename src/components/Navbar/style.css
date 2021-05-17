@@ -1,0 +1,13 @@
+.Navbar{
+    height: 10vh;
+    padding: 1%;
+    background-color: aqua;
+    display: flex;
+}
+.Navbar > h1{
+    flex: 1;
+}
+.counterValue{
+    flex: 0;
+    align-self: center;
+}

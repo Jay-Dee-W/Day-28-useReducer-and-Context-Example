@@ -1,0 +1,25 @@
+
+.Content {
+    padding: 1%;
+    height: 91.5vh;
+    width:80%;
+    background-color: rgb(219, 174, 236);
+    overflow-y:scroll
+}
+
+.Conter-card {
+    padding-left: 50%;
+
+}
+
+.Conter-card > button {
+    padding: 2%;
+    margin: 2%;
+}
+
+.plus{
+    background-color: green;
+}
+.minus {
+    background-color: red;
+}
