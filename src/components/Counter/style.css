@@ -4,11 +4,12 @@
     height: 91.5vh;
     width:80%;
     background-color: rgb(219, 174, 236);
-    overflow-y:scroll
+    overflow-y:scroll;
+    text-align: center;
 }
 
-.Conter-card {
-    padding-left: 50%;
+.Conter-card > p, h1{
+    text-align: left ;
 
 }
 
